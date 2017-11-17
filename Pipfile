@@ -1,0 +1,14 @@
+[[source]]
+
+verify_ssl = true
+url = "https://pypi.python.org/simple"
+name = "pypi"
+
+
+[packages]
+
+meh = "==1.2.1"
+python-telegram-bot = "==5.2.0"
+
+
+[dev-packages]
